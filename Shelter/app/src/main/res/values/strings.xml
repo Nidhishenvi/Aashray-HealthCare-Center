@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Shelter</string>
+    <string name="question1">How was the food provided to you ?</string>
+    <string name="question2">Was room clean and hygienic ?</string>
+    <string name="question3">Was bed and mattress comfortable ?</string>
+    <string name="question4">Was the transport available on time ?</string>
+    <string name="question5">Were the volunteers helpful ?</string>
+    <string name="question6">Were the doctors considerate and helpful ?</string>
+    <string name="question7">Were the counsellors approachable and friendly ?</string>
+    <string name="question8">How were the recreational activities ?</string>
+    <string name="question9">Was the educational service helpful ?</string>
+    <string name="question10">How was the overall experience ?</string>
+</resources>
